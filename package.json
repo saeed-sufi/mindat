@@ -1,0 +1,23 @@
+{
+  "name": "mindat",
+  "version": "0.0.1",
+  "description": "This is a test version of the OpenMindat Nodejs package, designed to facilitate querying and retrieving data on minerals and geomaterials from the Mindat API. It provides classes for detailed queries based on various attributes like IMA status, keywords, and specific geomaterial properties.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/saeed-sufi/mindat.git"
+  },
+  "keywords": [
+    "mindat",
+    "minerals"
+  ],
+  "author": "Saeed Sufi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/saeed-sufi/mindat/issues"
+  },
+  "homepage": "https://github.com/saeed-sufi/mindat#readme"
+}
